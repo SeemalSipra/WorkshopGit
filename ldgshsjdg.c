@@ -2,7 +2,7 @@ int main() {
 
     printf("TEST\n");
     printf("no\n");
-    printf("Yes\n");
+    printf("Yesn't\n");
 
     return 0;
 }
