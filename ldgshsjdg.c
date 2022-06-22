@@ -1,9 +1,7 @@
 int main() {
 
-    printf("TEST\n");
     printf("no\n");
-    printf("Yoooo\n");
-    printf("Yesn't\n");
+    printf("Yesnlkdgnsjlkenfs't\n");
 
     return 0;
 }
