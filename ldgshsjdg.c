@@ -1,7 +1,7 @@
 int main() {
 
     printf("no\n");
-    printf("Yesnlkdgnsjlkenfs't\n");
+    printf("Yesnlkdgnsjlk't\n");
 
     return 0;
 }
